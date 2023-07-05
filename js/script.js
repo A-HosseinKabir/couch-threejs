@@ -138,48 +138,48 @@ function script() {
 
 			// Couch bottom 
 
-			var couch_bottomOBJ = 'model/couch-bottom.obj'
-			var couch_bottomMTL = 'model/couch-bottom.mtl'
+			var couch_bottomOBJ = '../couch-threejs/model/couch-bottom.obj'
+			var couch_bottomMTL = '../couch-threejs/model/couch-bottom.mtl'
 
 			// Couch side left
 
-			var couch_side_leftOBJ = 'model/couch-side-left.obj'
-			var couch_side_leftMTL = 'model/couch-side-left.mtl'
+			var couch_side_leftOBJ = '../couch-threejs/model/couch-side-left.obj'
+			var couch_side_leftMTL = '../couch-threejs/model/couch-side-left.mtl'
 
 			// Couch side right 
 
-			var couch_side_rightOBJ = 'model/couch-side-right.obj'
-			var couch_side_rightMTL = 'model/couch-side-right.mtl'
+			var couch_side_rightOBJ = '../couch-threejs/model/couch-side-right.obj'
+			var couch_side_rightMTL = '../couch-threejs/model/couch-side-right.mtl'
 
 			// Couch back
 
-			var couch_backOBJ = 'model/couch-back.obj'
-			var couch_backMTL = 'model/couch-back.mtl'
+			var couch_backOBJ = '../couch-threejs/model/couch-back.obj'
+			var couch_backMTL = '../couch-threejs/model/couch-back.mtl'
 
 			// Couch seat left
 
-			var couch_seat_leftOBJ = 'model/couch-seat-left.obj'
-			var couch_seat_leftMTL = 'model/couch-seat-left.mtl'
+			var couch_seat_leftOBJ = '../couch-threejs/model/couch-seat-left.obj'
+			var couch_seat_leftMTL = '../couch-threejs/model/couch-seat-left.mtl'
 
 			// Couch seat right
 
-			var couch_seat_rightOBJ = 'model/couch-seat-right.obj'
-			var couch_seat_rightMTL = 'model/couch-seat-right.mtl'
+			var couch_seat_rightOBJ = '../couch-threejs/model/couch-seat-right.obj'
+			var couch_seat_rightMTL = '../couch-threejs/model/couch-seat-right.mtl'
 
 			// Couch pillow right
 
-			var couch_pillow_rightOBJ = 'model/couch-pillow-right.obj'
-			var couch_pillow_rightMTL = 'model/couch-pillow-right.mtl'
+			var couch_pillow_rightOBJ = '../couch-threejs/model/couch-pillow-right.obj'
+			var couch_pillow_rightMTL = '../couch-threejs/model/couch-pillow-right.mtl'
 
 			// Couch pillow left
 
-			var couch_pillow_leftOBJ = 'model/couch-pillow-left.obj'
-			var couch_pillow_leftMTL = 'model/couch-pillow-left.mtl'
+			var couch_pillow_leftOBJ = '../couch-threejs/model/couch-pillow-left.obj'
+			var couch_pillow_leftMTL = '../couch-threejs/model/couch-pillow-left.mtl'
 
 			// Couch base
 
-			var baseOBJ = 'model/base.obj'
-			var baseMTL = 'model/base.mtl'
+			var baseOBJ = '../couch-threejs/model/base.obj'
+			var baseMTL = '../couch-threejs/model/base.mtl'
 
 
 			function couchLoader(){
